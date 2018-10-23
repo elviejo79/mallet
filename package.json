@@ -17,6 +17,10 @@
     "url": "https://github.com/input-output-hk/mallet/issues"
   },
   "homepage": "https://github.com/input-output-hk/mallet#readme",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=3.6.0"
+  },
   "dependencies": {
     "auto-bind": "^1.2.1",
     "caporal": "^0.10.0",
